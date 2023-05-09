@@ -19,7 +19,7 @@ The Description of the Data:
   matplotlib
   
   Usage:
-  To use this project, simply run the sales_forecasting.ipynb notebook. The notebook includes all   the code necessary to load the dataset, train the Prophet model, and generate forecasts.
+  To use this project, simply run the TimeSeries_HistoricalSales_DD.ipynb notebook. The notebook includes all   the code necessary to load the dataset, train the Prophet model, and generate forecasts.
 
 
   Conclusion:
